@@ -22,7 +22,8 @@
 
 - h1: Matching your major requirements...
 
-- h3: This might take a moment. We're searching through thousands of courses to find your perfect match.
+- h3: This might take a moment. We're searching through thousands of courses to
+  find your perfect match.
 
 #### Requirements builder
 
